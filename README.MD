@@ -3,7 +3,7 @@
 ![Imagem da página inicial do app](imag.luxacss.png)
 ___
 
-Este repositório documenta o conjunto de testes que realizei no site [Luxa CSS](https://www.luxacss.com/), que é um projeto dedicado à implementação de CSS acessível e design responsivo, promovendo boas práticas de acessibilidade para desenvolvedores e designers criarem interfaces responsivas e inclusivas. Meu objetivo foi garantir que a navegação, a usabilidade e a funcionalidade do site estivessem de acordo com os padrões de qualidade, proporcionando uma experiência consistente e acessível para os usuários em diversos dispositivos e navegadores. Neste projeto, trabalhei na verificação das funcionalidades essenciais, responsividade, acessibilidade, clareza da interface e navegação.
+Este repositório documenta o conjunto de testes que realizei no site [Luxa CSS](https://www.luxacss.com/), que é um projeto de código aberto dedicado à implementação de CSS acessível e design responsivo, promovendo boas práticas de acessibilidade para desenvolvedores e designers criarem interfaces responsivas e inclusivas. Meu objetivo foi garantir que a navegação, a usabilidade e a funcionalidade do site estivessem de acordo com os padrões de qualidade, proporcionando uma experiência consistente e acessível para os usuários em diversos dispositivos e navegadores. Neste projeto, trabalhei na verificação das funcionalidades essenciais, responsividade, acessibilidade, clareza da interface e navegação.
 
 ## Testes Realizados
 
