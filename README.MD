@@ -41,4 +41,4 @@ Este repositório documenta o conjunto de testes que realizei no site [Luxa CSS]
 
 ## Conclusão
 
-Este projeto de testes do LUXACSS foi uma oportunidade para validar a navegação, usabilidade, compatibilidade e acessibilidade da plataforma. Com um foco na experiência do usuário e na acessibilidade, garanti que o site proporcionasse uma navegação fluida e um layout responsivo, de acordo com a proposta do LUXACSS de promover CSS acessível e boas práticas de design.
+Este projeto de testes do LUXACSS foi uma oportunidade para validar a navegação, usabilidade, compatibilidade e acessibilidade desse projeto de código aberto. Com um foco na experiência do usuário e na acessibilidade, garanti que o site proporcionasse uma navegação fluida e um layout responsivo, de acordo com a proposta do LUXACSS de promover CSS acessível e boas práticas de design.
